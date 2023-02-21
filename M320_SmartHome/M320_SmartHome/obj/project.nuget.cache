@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gPWak6POltHXD5SeEpeAajpEvo7+0rJu+f8juz6/8hDlLpERo01+fWU0ZZEMBCINupRjWWzHgzgWeJsejYSaqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Livio Piccolotto\\OneDrive - Kt. SG BLD\\2. Schuljahr\\Informatik\\V320\\M320_SmartHome\\M320_SmartHome\\M320_SmartHome\\M320_SmartHome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Livio Piccolotto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512",
+    "C:\\Users\\Livio Piccolotto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Livio Piccolotto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Livio Piccolotto\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
