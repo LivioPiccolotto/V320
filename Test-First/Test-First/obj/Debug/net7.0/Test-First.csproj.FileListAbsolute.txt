@@ -1,0 +1,15 @@
+C:\m320\Test-First\Test-First\bin\Debug\net7.0\Test-First.exe
+C:\m320\Test-First\Test-First\bin\Debug\net7.0\Test-First.deps.json
+C:\m320\Test-First\Test-First\bin\Debug\net7.0\Test-First.runtimeconfig.json
+C:\m320\Test-First\Test-First\bin\Debug\net7.0\Test-First.dll
+C:\m320\Test-First\Test-First\bin\Debug\net7.0\Test-First.pdb
+C:\m320\Test-First\Test-First\obj\Debug\net7.0\Test-First.csproj.AssemblyReference.cache
+C:\m320\Test-First\Test-First\obj\Debug\net7.0\Test-First.GeneratedMSBuildEditorConfig.editorconfig
+C:\m320\Test-First\Test-First\obj\Debug\net7.0\Test-First.AssemblyInfoInputs.cache
+C:\m320\Test-First\Test-First\obj\Debug\net7.0\Test-First.AssemblyInfo.cs
+C:\m320\Test-First\Test-First\obj\Debug\net7.0\Test-First.csproj.CoreCompileInputs.cache
+C:\m320\Test-First\Test-First\obj\Debug\net7.0\Test-First.dll
+C:\m320\Test-First\Test-First\obj\Debug\net7.0\refint\Test-First.dll
+C:\m320\Test-First\Test-First\obj\Debug\net7.0\Test-First.pdb
+C:\m320\Test-First\Test-First\obj\Debug\net7.0\Test-First.genruntimeconfig.cache
+C:\m320\Test-First\Test-First\obj\Debug\net7.0\ref\Test-First.dll
